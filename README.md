@@ -1,4 +1,3 @@
 # python
 
-Brackets now
-Scraper for scholships - searches for scholarships
+These are a couple of python projects created. 
